@@ -127,6 +127,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+		int a=0;
+		int b =0;
+		int c =0;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
@@ -192,7 +195,7 @@ void Error_Handler(void)
 {
   /* USER CODE BEGIN Error_Handler_Debug */
   /* User can add his own implementation to report the HAL error return state */
-
+   int a ;
   /* USER CODE END Error_Handler_Debug */
 }
 
