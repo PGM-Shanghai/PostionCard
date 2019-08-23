@@ -130,6 +130,7 @@ int main(void)
 		int a=0;
 		int b =0;
 		int c =0;
+		int e=0;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
